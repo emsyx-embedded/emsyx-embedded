@@ -14,7 +14,7 @@ EMSYX is a leading provider of critical software solutions for the industrial se
 
 Our expertise encompasses:
 - Industrial automation and control systems
-- Safety-critical embedded software compliant with [ECSS standards](https://ecss.nl/)
+- Safety-critical embedded software compliant with [ECSS standards](https://ecss.nl/home/ecss-engineering-standards/)
 - Real-time operating systems and middleware
 - Regulatory compliance and certification support
 - Cybersecurity for embedded systems following [ANSSI guidelines](https://cyber.gouv.fr/)
@@ -35,7 +35,7 @@ This repository serves as a platform for sharing technological insights and moni
 ### Operating Systems & RTOSes
 - **[FreeRTOS](https://www.freertos.org/)** - Real-time operating system for microcontrollers
 - **[Zephyr](https://www.zephyrproject.org/)** - Scalable real-time operating system for IoT
-- **[Yocto Project](https://www.yoctoproject.org/)** / **[Linux4Space](https://gitlab.com/linux4space)** - Custom Linux distributions for embedded systems
+- **[Yocto Project](https://www.yoctoproject.org/)** / **Linux4Space** - Custom Linux distributions for embedded systems
 
 ### Programming Languages
 - **C** - Low-level system programming
@@ -70,7 +70,7 @@ This repository serves as a platform for sharing technological insights and moni
 ## Standards & Security
 
 ### ECSS Software Standards
-We follow [European Cooperation for Space Standardization (ECSS)](https://ecss.nl/) software engineering standards for safety-critical applications:
+We follow [European Cooperation for Space Standardization (ECSS)](https://ecss.nl/home/ecss-engineering-standards/) software engineering standards for safety-critical applications:
 - ECSS-E-ST-40C: Space Engineering - Software
 - ECSS-Q-ST-80C: Space Product Assurance - Software product assurance
 
